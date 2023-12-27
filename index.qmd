@@ -1,5 +1,16 @@
 ---
-title: "kasiawojczulanis"
+title: "Katarzyna (Kasia) Wojczulanis-Jakubas"
+image: ja.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - text: Twitter
+      href: https://twitter.com/wojczulanis13
+    - text: GitHub
+      href: https://github.com/kasiawojczulanis
+    - text: Email
+      href: mailto:katarzyna.wojczulanis-jakubas@ug.edu.pl
 ---
-
-My wisdom: better to be nicely suprised than horribly disappointed - this is probably not the most nimble sentences of mine but I need some content here for now.
