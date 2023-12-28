@@ -4,13 +4,19 @@ image: ja.jpg
 toc: false
 about: 
   template: trestles
-  image-shape: round
+  image-shape: rectangle
   image-width: 15em
   links:
     - text: Twitter
       href: https://twitter.com/wojczulanis13
     - text: GitHub
       href: https://github.com/kasiawojczulanis
+    - text: Google Scholar
+      href: https://scholar.google.pl/citations?user=oGgCQtYAAAAJ&hl=es
+    - text: Orcid
+      href: https://orcid.org/0000-0001-6230-0509
+    - text: Polar Ecology Group
+      href: https://polarecologygroup.wordpress.com
     - text: Email
       href: mailto:katarzyna.wojczulanis-jakubas@ug.edu.pl
 ---
@@ -18,3 +24,5 @@ about:
 I am behavioural ecologist, with a wide range of scientific interests and research on various animals species (see Projects and Publications). However, my special interest is reproductive behaviour and most of my studies I do on birds, with polar seabirds being my favorite group.
 
 **Keywords** that would "profile me" right now (it changes)? - behavioural ecologist, R enthusiast (probabaly never a master), Yuki' kahu
+
+**Motto**: "*In order to see birds it is necessary to become a part of the silence*" \[Ys\]
