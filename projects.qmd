@@ -1,3 +1,30 @@
 ---
 title: "Projects"
 ---
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+
+library(readxl)
+data <- read_excel("C:/Users/User/Documents/kwj_webpage/kasiawojczulanis/topics_network2.xlsx")
+
+
+
+library(igraph)
+library(networkD3)
+
+# Plot
+p <- simpleNetwork(data, height="100px", width="100px",        
+                   Source = 1,                 # column number of source
+                   Target = 2,                 # column number of target
+                   linkDistance = 20,          # distance between node. Increase this value to have more space between nodes
+                   charge = -900,                # numeric value indicating either the strength of the node repulsion (negative value) or attraction (positive value)
+                   fontSize = 14,               # size of the node names
+                   fontFamily = "serif",       # font og node names
+                   linkColour = "#666",        # colour of edges, MUST be a common colour for the whole graph
+                   nodeColour = "#69b3a2",     # colour of nodes, MUST be a common colour for the whole graph
+                   opacity = 0.8,              # opacity of nodes. 0=transparent. 1=no transparency
+                   zoom = T                    # Can you zoom on the figure?
+)
+
+p
+```
