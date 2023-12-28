@@ -1,6 +1,6 @@
 ---
 title: "Katarzyna (Kasia) Wojczulanis-Jakubas"
-image: Ja.jpg
+image: ja.jpg
 toc: false
 about: 
   template: trestles
