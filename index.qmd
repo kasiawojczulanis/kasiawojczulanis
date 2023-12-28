@@ -1,11 +1,11 @@
 ---
 title: "Katarzyna (Kasia) Wojczulanis-Jakubas"
-image: ja.jpg
+image: Ja.jpg
 toc: false
 about: 
   template: trestles
   image-shape: round
-  image-width: 20em
+  image-width: 15em
   links:
     - text: Twitter
       href: https://twitter.com/wojczulanis13
@@ -14,3 +14,7 @@ about:
     - text: Email
       href: mailto:katarzyna.wojczulanis-jakubas@ug.edu.pl
 ---
+
+I am behavioural ecologist, with a wide range of scientific interests and research on various animals species (see Projects and Publications). However, my special interest is reproductive behaviour and most of my studies I do on birds, with polar seabirds being my favorite group.
+
+**Keywords** that would "profile me" right now (it changes)? - behavioural ecologist, R enthusiast (probabaly never a master), Yuki' kahu
