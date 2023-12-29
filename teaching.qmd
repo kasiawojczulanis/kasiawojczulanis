@@ -2,14 +2,14 @@
 title: "Teaching"
 ---
 
-## Animal Behaviour 
+## Animal Behaviour
 
 Short introduction to studies on animal behaviour - a supplementary course for Behavioural and Evolutionary Ecology. In English only.
 
 ![](ab_course_baner.jpg){fig-align="center"}
 
 | Programme in a nutshell:                                                                          |
-|---------------------------------------------------------------------------------------------------|
+|------------------------------------------------------------------------|
 | Introduction \[[slides](https://rpubs.com/kmmwj/841381), [text](https://rpubs.com/kmmwj/841486)\] |
 | Courtship display \[[text](https://rpubs.com/kmmwj/845105)\]                                      |
 | Coordination \[[slides](https://rpubs.com/kmmwj/847600), [text](https://rpubs.com/kmmwj/847559)\] |
@@ -18,13 +18,9 @@ Short introduction to studies on animal behaviour - a supplementary course for B
 | Cognitive abilities \[[text](https://rpubs.com/kmmwj/853175)\]                                    |
 | Inter-individual differences \[text\]                                                             |
 
-------------------------------------------------------------------------
-
 ## Behavioral Ecology and Evolution
 
 In English and Polish
-
-------------------------------------------------------------------------
 
 ## Ethology
 
