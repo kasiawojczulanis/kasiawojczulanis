@@ -2,6 +2,12 @@
 title: "Projects"
 ---
 
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
 ## Ongoing projects
 
 Interested in collaboration? Contact me: katarzyna.wojczulanis-jakubas\@ug.edu.pl
