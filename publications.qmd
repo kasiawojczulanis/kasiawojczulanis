@@ -2,6 +2,7 @@
 title: "Publications"
 ---
 
+
 *Having an issue with an access to a paper **PDF? Contact me**: katarzyna.wojczulanis-jakubas\@ug.edu.pl*
 
 ------------------------------------------------------------------------
@@ -12,7 +13,10 @@ title: "Publications"
 # ![#1589F0 %>% ](https://placehold.co/15x15/f03c15/f03c15.png) 2024
 
 
+
 Ribeiro L\*, Devogel M\*, Grissot A\*, Kidawa D, Jakubas D, Syposz M **Wojczulanis‐Jakubas K** (**2024**). It is good to be average: Ecological correlates of breeding phenology in an Arctic seabird, Alle alle (Dovekie). *Ornithology: In press.* [PDF](https://academic.oup.com/auk/advance-article-abstract/doi/10.1093/ornithology/ukae036/7739953?redirectedFrom=fulltext)
+
+Jakubas D, **Wojczulanis-Jakubas K**, Petersen A, Evans PGH, Boertmann D (2024). Decline in the West Greenland population of a zooplanktivorous seabird, the little auk Alle alle. Scientific Reports 14:1–17.[PDF](https://www.nature.com/articles/s41598-024-71823-3)
 
 Grissot A,\* Altmeyer L\*, Devogel M\*, Zalewska E\*, Borrel C\*, Kidawa D, Jakubas D, **Wojczulanis-Jakubas K** (**2024**). Coordination of parental performance is breeding phase-dependent in the Dovekie (Alle alle), a pelagic Arctic seabird. PloS one 19:e0306796.  [PDF](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306796)
 
@@ -29,6 +33,7 @@ Osiecka AN\*, Briefer EF, Kidawa D **K. Wojczulanis‐Jakubas** (**2024**). Stro
 
 **Wojczulanis-Jakubas K**, Hoover B, Jakubas D, Fort J, Gremillet D, Gavrilo M, Zielińska S, Zagalska-Neubauer M (**2024**). Diversity of major histocompatibility complex of II B gene and mate choice in a monogamous and long-lived seabird, the Little Auk (Alle alle). *PLoS ONE*:1–19. [PDF](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0304275)
 
+:::
 
 
 

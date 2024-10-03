@@ -45,49 +45,74 @@ p <- simpleNetwork(data, height="100px", width="100px",
 p
 ```
 
+::: {.justify}
+
 Each projects (usually) ends with a publication, so the list of those (see \[Publications\](publications.qmd)) presents the complete set of so far asked research questions. Below there are specified three main research avenues that I work within with my research group/s (they interconnect a lot, and expand beyond what the label could suggest), with a short list and description of ongoing projects. Only the project that are somehow formally settled, having website and/or regular funding and/or a defined deadline for the project report (like PhDs I supervise) are listed here. Other ongoing stuff may be described here in a future..., and obviously (and hopefully) new avenues, that will emerge and develop.
+:::
+
 
 ## Breeding (behavioural) ecology
 
+::: {.justify} 
 This section is definitely in the core of my research. Any behavioural aspect of birds reproductive ecology would fit here. For now, there are three bigger projects running within that framework:
+:::
 
 #### **ACORD: ** **Avian COoRDination of parental activities - patterns and mechanisms**. 
 
+::: {.justify} 
 The project [supported by NCN](https://www.ncn.gov.pl/konkursy/wyniki/2023-11-23-opus25-preludium22) (OPUS 25).
+:::
 
+::: {.justify} 
 In this project, coordination of breeding partners in their parental performance is considered, to examine mechanisms regulating observed patterns (e.g. alternation/synchronization). The issue is considered both across birds taxa (ulimate drivers) as well as focusing on selected species (proximate drivers). In the latter perspective hormonal mechanisms are considered.
+:::
 
+
+::: {.justify} 
 **Collaborators**: Polar Research Group, Małgorzata Lagisz-Nakagawa, Olivier Chastel, Diego Gil
+:::
 
 **PHD students**: Maureen Hocquet, Szymon Słomkowki
 
 
 #### **Seabirds vocalization** 
 
+::: {.justify} 
 This is complete/ongoing project where we consider various aspects of seabirds vocalization. Our main focus now is the little auk but we are expanding. The study has been supported so far by [NCN](https://www.ncn.gov.pl/) through [Preludium awarded to Marion Devogel](https://projekty.ncn.gov.pl/opisy/459137-pl.pdf) and [Sonata to Dorota Kidawa](https://projekty.ncn.gov.pl/opisy/382939-pl.pdf). Some of the aspects are already closed, as [Anna Osiecka PhD project](https://old.biology.ug.edu.pl/sites/default/files/postepowania_naukowe/116361/praca/rozprawa_doktorska_anna_osiecka.pdf) but other issues are still open and evolving.
+:::
 
+::: {.justify} 
 **Collaborators**: Polar Ecology Group (including Dorota Kidawa, Anna Osiecka, Marion Devogel), Marcelo Araya-Salas (University of Costa Rica), Elodie Briefer (University of Copenhagen), Edward Miller (Memorial University of Newfoundland).
+:::
 
 
 ## Polar seabirds response to environmantal changes
 
+::: {.justify} 
 #### **LAPSE:** **What really matters for a High-Arctic zooplanktivorous seabird foraging in rapidly changing environment - prey size or energy content?** (PI: Dariusz Jakubas)
+:::
 
+::: {.justify} 
 #### [**Little Auk’s breeding phenology, behaviour and its nest microclimate in the warming Arctic**](https://polarecologygroup.wordpress.com/little-auk-response-to-the-warming-arctic/) (PI: Martyna Syposz)
+:::
 
 ## Non-breeding ecology of polar seabirds
 
 #### **Seatrack**
 
+::: {.justify} 
 International network of scientist led by by a project-group with representatives from the Norwegian Polar Institute (NPI), Norwegian Institute for Nature Research (NINA) and Norwegian Environment Agency (NEA). The aim of the project is to map the non-breeding distribution of seabirds breeding in colonies encircling the North Atlantic. This is a large scale project (different seabirds species, over large geographical area) bringing truely breaking through results (many papers have been already published presenting detailed fidnings on specific scientific questions, some in [a special issue of Marine Ecology Progress Series](#0), and here is also the [awesome app](#0) you can use to check non-breeding distribution of a species). The big step forward is done owing to the usage of small light-sensitive devices (geo-locators) deployed on birds. Based on those we can estimate birds position during the migration and wintering period (ten years ago we had no idea where these birds go for the winter!). Me with my research group deliver data for the **little auks from Hornsund** (S Spitsbergen), where we perform a long-term studies on breeding ecology of the species. Recently, owing to the LAPSE project we also deployed loggers on birds in Magdalenefjorden (N Spitsbergen), to retrive them in the summer 2024.
+:::
 
 ![](seatrack_fig1.jpg)
 
 #### **Arctox**
 
+::: {.justify} 
 International network of scientist for examinig mercury contamination of North Altantic seabirds.
 
 Arctox is an extensive international cooperation that primarily aims to map and monitor the mercury contamination of Arctic marine food webs using seabirds as bio-indicators. To this end, this pan-Arctic network collects biological tissues on a total of 26 different seabird species at 72 breeding sites all around the Arctic and subarctic. Numerous initiatives are now ongoing, the heaviest for now is phd project of Josephine Sabathe, co-supervised with Jerome Fort.
+:::
 
 ![](arctox_fig1.jpg)
 
