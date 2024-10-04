@@ -12,6 +12,7 @@ website:
       - publications.qmd
       - teaching.qmd
       - miscellaneous.qmd
+      - scribalia.qmd
 
 format:
   html:
