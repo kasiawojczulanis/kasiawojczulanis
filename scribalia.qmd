@@ -7,9 +7,8 @@ title: "Scribalia"
 
 ### PhD is not a hobby, it is a work.
 
-
+::: {.justify}
 I think it was Confucius (and my quick check upon the Internet confirms it), who said: “Find a job you love and you will never have to work a day”. I like this sentence and I think I get it’s philosophical meaning but I also find it bit misleading. It tells only about a bright side of the job, while there is no just one(bright)-side job on this planet. Actually, even beyond the planet. The moon, for example, from the Earth perspective only the bright side is visible but there is a dark one, for sure. Same with any project. There is ALWAYS, both bright side, which you will be attracted by and you may love it, and dark one, which may haunt you and eat you, if you ignore it.
-
 
 
 For most of people, and especially PhD students just starting their journey, PhD project seems like the job of dreams. People doing their PhD pursuit answers they always wanted to know and while doing so, they work in quite magic environment (lab/field), being surrounded by books and knowledgeable people. Modern technology, only helps with the research, allowing to reach what is unachievable by regular human standards. All this is true for most of the projects, the only wrinkle is that there is also other stuff associated with every project, much less notable and convenient, which you have to handle if you want to complete the project. For example, a fieldwork may be a big challenge (when you collect your samples in, euphemistically speaking, unfavourable weather conditions), but if it is your favourite part (and weather is not so nasty all the time), you enjoy it, and it does not feel like a job. But then, you need to analyse the data and report them (i.e. write papers) otherwise your effort in the field does not matter. If data analysis or reporting is not your cup of tea, you are going to suffer. If you suffer too much, perhaps PhD project is not for you. If you suffer a little, it is understandable, nobody likes everything about their project. Still, you just need to eat this frog (or rather many frogs), and eat it quickly (before it eats you)…so you can go to the field again, with a new project.
@@ -18,7 +17,11 @@ PhD project is not a hobby. A hobby stuff you do in a free time and only if you 
 
 If you can efficiently handle less pleasant parts of your job, your PhD, it will be a dream job for you. So, just do what is to be done, and take the energy from the most enjoyable parts!
 
+:::
+
 ### Read, read and once again read.
+
+::: {.justify}
 
 It is well established that reading is a meta-capability that not only maintains our brain functions (e.g., concentration) but also increases our knowledge and intelligence. This is important in everybody’s life but if you aspire to get PhD you need to outperform an average reader. You need to read proper scientific literature and you need to read a lot of it. This is because to perform your study, and perform it well, you need a lot of knowledge and creative and critical thinking. Those can be only developed through regular reading.
 
@@ -32,7 +35,11 @@ Last tip, to make the reading a daily routine, as I said before, you need to mak
 
 Regular reading scientific literature will not hurt you, it will empower you!
 
+:::
+
 ### Chunkilization
+
+::: {.justify}
 
 If you just check this word in a dictionary and could not find it is because I made it up. What does it mean, you will soon figure out. Let me start with a little story: At Polish Polar Station in Hornsund (Svalbard), where I have been working for twenty years, there used to be dogs, a Greenland breed. They were supposed to bark at approaching polar bears, so to alarm the people about the presence of the big guy. How efficient the system was it is disputable but this story is not about the polar bear protection, it is about enthusiasm and the size of challenge. The dogs were apparently well fed as the rate and amount of food was carefully calculated by veterinarians and they looked healthy but they were ALWAYS in a mood to eat more. They were super excited when the food was on the way, quickly consuming what they got, and just after looking forward to the next meal. Once upon a time, they crept into a warehouse where their food supplies for half a year were stored. Nobody could see them entering so it is hard to say how enthusiastic there were at the moment but when they left, two days later, they did not want to eat at all! Surprisingly, given their enthusiasm about the food, and the time they spent in the warehouse, they have not eaten all the supplies. What is the conclusion of the story? There are two. First, dogs enthusiasm about the food ended with the food over-dosage. Second, despite enormous enthusiasm, they could not eat all at once.
 
@@ -56,7 +63,10 @@ Whatever you are doing, either it is working with your data (*dimension one*), p
 
 Visualization makes your life easier, and as a matter of fact also more interesting. Do it! It is worth of it.  
 
+:::
+
 ### Scientific text is not a poem, and a writer identity does not matter much.   
+:::{.justify}
 
 Scientific text is not a poem, and a writer identity does not matter much. Scientific text has its specificity. It is a medium to transfer the knowledge about the results of the study. The data and results are the most important content and here authors identity matters a lot, while the text is just a description, a wrapping. It just has to be complete, clear and concise, so whatever it describes, it will be correctly understood by a reader (results will be correctly interpreted, conclusions will not be distorted, protocols will be faithfully reproduced, etc). In scientific text any redundant or repetitive descriptions must be removed (one has to say only what is important for the study and say it just once) while building the story at first approach, redundant descriptions and repetitions are natural. To get a crips and coherent story, one needs a lot of time and effort. Some people, due to their predisposition and/or experience, may be more accurate than the others with their first draft but regardless of their skills, their manuscript will always require multiple rounds of rewriting to sound grounded.   
 
@@ -66,7 +76,9 @@ It may not be easy to refrain from this auto-evaluation during the manuscript wr
 
 Upon every revision of your text, it may feel like its original version disappears. This is often painful (as you created it with blood, sweat and tears) but it does not matter. The sooner you accept it the better for you. Revising is very much important part of the manuscript ontogenesis - version one becomes a substrate for the version to and there is no version two without version one! Some people say that good manuscript is a manuscript rewritten several times. Only then is complete, clear and concise.
 
+:smile
 
+:::
 
 
 
