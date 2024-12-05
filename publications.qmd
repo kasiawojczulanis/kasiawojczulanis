@@ -10,7 +10,9 @@ title: "Publications"
 
 # ![#1589F0 %\>%](https://placehold.co/15x15/f03c15/f03c15.png) 2024
 
-Cieślińska A\*, Bodson P\*, Gruber E, Piening K\*, Syposz M, **Wojczulanis-Jakubas** **K**, Jakubas D (**2024**). What is the shade of your mate? A key for identification of colour aberrations in alcids. European Journal of Zoology, *in press*.
+Cieślińska A\*, Bodson P\*, Gruber E, Piening K\*, Syposz M, **Wojczulanis-Jakubas** **K**, Jakubas D (**2024**). What is the shade of your mate? A key for identification of colour aberrations in alcids. *European Journal of Zoology*, *in press*.
+
+Osiecka A\*, Bryndza P, Briefer EF, **Wojczulanis-Jakubas K** (2024). Long distance calls: Negligible information loss of little auk social vocalizations due to high frequency propagation losses. *Plos Computational Biology*, in press. [PDF](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011961) (corrected proof)
 
 Bałazy K, Jakubas D, Kotarba A, **Wojczulanis-Jakubas K** (**2024**) Illuminating the Arctic: Unravelling seabird responses to artificial light during polar darkness through citizen science and remote sensing. *Remote Sensing in Ecology and Conservation,* [PDF](https://zslpublications.onlinelibrary.wiley.com/doi/10.1002/rse2.425)
 
