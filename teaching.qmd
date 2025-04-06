@@ -9,7 +9,7 @@ Short introduction to studies on animal behaviour - a supplementary course for B
 ![](ab_course_baner.jpg){fig-align="center"}
 
 | Programme in a nutshell: |
-|----|
+|------------------------------------------------------------------------|
 | Introduction \[[slides](https://rpubs.com/kmmwj/841381), [text](https://rpubs.com/kmmwj/841486)\] |
 | Courtship display \[[text](https://rpubs.com/kmmwj/845105)\] |
 | Coordination \[[slides](https://rpubs.com/kmmwj/847600), [text](https://rpubs.com/kmmwj/847559)\] |
@@ -21,7 +21,7 @@ Short introduction to studies on animal behaviour - a supplementary course for B
 ## Behavioral Ecology and Evolution
 
 | Programme in a nutshell: |
-|----|
+|------------------------------------------------------------------------|
 | Introduction \[[part1](https://www.rpubs.com/kmmwj/675413), [part 2](https://www.rpubs.com/kmmwj/675414)\] |
 | Life history theory \[[slides](https://www.rpubs.com/kmmwj/675417)\] |
 | Optimalization \[[slides](https://rpubs.com/kmmwj/1100128)\] |
@@ -42,7 +42,7 @@ Short introduction to studies on animal behaviour - a supplementary course for B
 In Polish only
 
 | Program w pigułce: |
-|----|
+|------------------------------------------------------------------------|
 | Zasady gry [slajdy](https://drive.google.com/file/d/1hY3a8e6ExIZ2PgXjxzcKSTSNogdM4FUF/view?usp=sharing) |
 | Wprowadzenie do etologii - metodologia itp [slajdy](https://drive.google.com/file/d/1ghv9JekzEwVCvgiqox2VqJeq_qxpjAkP/view?usp=sharing) |
 | Podstawowe formy zachowania [slajdy](https://drive.google.com/file/d/1tTV9FrbUCZg4SxwHOigXAPM2Bw3LLVA0/view?usp=sharing) |
@@ -52,4 +52,5 @@ In Polish only
 | Odruchy i procesy uwagowe [slajdy](https://drive.google.com/file/d/1F2gmBNO5vMQmWx0_ugNWgpcXsjYPiwt8/view?usp=sharing) |
 | Koordynacja zachowań [slajdy](https://drive.google.com/file/d/1LNe8DUxICo6CImcAw2-zjUQjsZtcxUbp/view?usp=sharing) |
 | Komunikacja [slajdy](https://drive.google.com/file/d/1nMYKj-IVhPx2j7mELgi5vxAvGpCGXfqY/view?usp=sharing) |
-| Język [slajdy](https://drive.google.com/file/d/1JnhelvkRWgRk2q6iF0nogHv5BgPQIyZf/view?usp=sharing) |
+| Jezyk [slajdy](https://drive.google.com/file/d/1JnhelvkRWgRk2q6iF0nogHv5BgPQIyZf/view?usp=sharing) |
+| Etologia w przestrzeni [slajdy](https://drive.google.com/file/d/11w0cWgtcIVD3kvXajClBdlfsnI2GPWyc/view?usp=sharing) |
