@@ -8,9 +8,15 @@ title: "Publications"
 
 \* Asteriks denote (co)supervised students (interns, masters, phds), originated from my lab - I am so proud of you, guys!
 
-# ![#1589F0 %\>%](https://placehold.co/15x15/f03c15/f03c15.png) 2024
+# ![#1589F0 %\>%](https://placehold.co/15x15/f03c15/f03c15.png){alt="#1589F0 %>%"} 2025
 
-Cieślińska A\*, Bodson P\*, Gruber E, Piening K\*, Syposz M, **Wojczulanis-Jakubas** **K**, Jakubas D (**2024**). What is the shade of your mate? A key for identification of colour aberrations in alcids. *European Journal of Zoology*, *in press*.
+Elhorst, R., Syposz, M., & **Wojczulanis-Jakubas, K**. (**2025**). BEHAVE - facilitating behaviour coding from videos with AI-detected animals. *Ecological Informatics*, *87*, [PDF](https://www.sciencedirect.com/science/article/pii/S1574954125001153)
+
+Cieślińska A\*, Bodson P\*, Gruber E, Piening K\*, Syposz M, **Wojczulanis-Jakubas** **K**, Jakubas D (**2025**). What is the shade of your mate? A key for identification of colour aberrations in alcids. *European Journal of Zoology*, [PDF](https://www.tandfonline.com/doi/full/10.1080/24750263.2024.2447447)
+
+<br>
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png){alt="#575F73"} 2024
 
 Osiecka A\*, Bryndza P, Briefer EF, **Wojczulanis-Jakubas K** (2024). Long distance calls: Negligible information loss of little auk social vocalizations due to high frequency propagation losses. *Plos Computational Biology*, in press. [PDF](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011961) (corrected proof)
 
