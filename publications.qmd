@@ -14,6 +14,8 @@ format:
 
 # ![#1589F0 %\>%](https://placehold.co/15x15/f03c15/f03c15.png){alt="#1589F0 %>%"} 2025
 
+![](images/behave_ntblm.png)
+
 Elhorst, R, Syposz, M, **Wojczulanis-Jakubas, K** (**2025**) BEHAVE - facilitating behaviour coding from videos with AI-detected animals. *Ecological Informatics*, *87*, [PDF](https://www.sciencedirect.com/science/article/pii/S1574954125001153)
 
 Bałazy K, Jakubas D, Kotarba A, **Wojczulanis-Jakubas K** (**2025**) Illuminating the Arctic: Unravelling seabird responses to artificial light during polar darkness through citizen science and remote sensing. *Remote Sensing in Ecology and Conservation* 11(3): 312-326*,* [PDF](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.425)
