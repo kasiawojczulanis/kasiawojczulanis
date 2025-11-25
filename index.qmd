@@ -1,5 +1,8 @@
 ---
 title: "Katarzyna (Kasia) Wojczulanis-Jakubas"
+format:
+  html:
+    css: styles.css
 image: ja.jpg
 toc: false
 about: 
@@ -7,8 +10,6 @@ about:
   image-shape: rectangle
   image-width: 15em
   links:
-    - text: Twitter
-      href: https://twitter.com/wojczulanis13
     - text: GitHub
       href: https://github.com/kasiawojczulanis
     - text: Google Scholar
@@ -21,8 +22,20 @@ about:
       href: mailto:katarzyna.wojczulanis-jakubas@ug.edu.pl
 ---
 
-I am behavioural ecologist, with a wide range of scientific interests and research on various animals species (see \[Projects\] (projects.qmd) and \[Publications\] (publications.qmd). However, my special focus is on breeding ecology and reproductive behaviours (now particularly coordintion of parental performance at any level) and most of my studies I do on birds, with polar seabirds being my favorite group (*Alle alle uber alles*).
-
 "*In order to see birds it is necessary to become a part of the silence*" \[Ys\]
 
-![The wordcloud generated on Dec 2023, based on titles of my publications, using \[scholar googler\](<https://scholargoggler.com/>)](wordcload_pubs1.jpg){width="400"}
+I am behavioural ecologist, with a wide range of scientific interests and research on various animals species (see \[Projects\] (projects.qmd) and \[Publications\] (publications.qmd). However, my special focus is on breeding ecology and reproductive behaviours (now particularly coordintion of parental performance at any level) and most of my studies I do on birds, with polar seabirds being my favorite group (*Alle alle uber alles*).
+
+### Highlights & Kudos
+
+::: news-box
+<ul>
+
+<li>🎓 **October 1, 2025** - Behavioral Ecology and Zoology course starts (stationary, University of Gdańskl) </li>
+
+<li>🎓 **October 1, 2025** — Animal Behaviour course starts (stationary, University of Gdańskl) </li>
+
+<li>🎉 **March 22, 2025** — New paper out: BEHAVE - facilitating behaviour coding from videos with AI-detected animals</li>
+
+</ul>
+:::

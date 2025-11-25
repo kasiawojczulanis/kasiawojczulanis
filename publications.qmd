@@ -1,5 +1,9 @@
 ---
 title: "Publications"
+date: "2025-11-25"
+format:
+  html:
+    css: styles.css
 ---
 
 *Having an issue with an access to a paper **PDF? Contact me**: katarzyna.wojczulanis-jakubas\@ug.edu.pl*
@@ -10,31 +14,33 @@ title: "Publications"
 
 # ![#1589F0 %\>%](https://placehold.co/15x15/f03c15/f03c15.png){alt="#1589F0 %>%"} 2025
 
-Elhorst, R., Syposz, M., & **Wojczulanis-Jakubas, K**. (**2025**). BEHAVE - facilitating behaviour coding from videos with AI-detected animals. *Ecological Informatics*, *87*, [PDF](https://www.sciencedirect.com/science/article/pii/S1574954125001153)
+Elhorst, R, Syposz, M, **Wojczulanis-Jakubas, K** (**2025**) BEHAVE - facilitating behaviour coding from videos with AI-detected animals. *Ecological Informatics*, *87*, [PDF](https://www.sciencedirect.com/science/article/pii/S1574954125001153)
 
-Cieślińska A\*, Bodson P\*, Gruber E, Piening K\*, Syposz M, **Wojczulanis-Jakubas** **K**, Jakubas D (**2025**). What is the shade of your mate? A key for identification of colour aberrations in alcids. *European Journal of Zoology*, [PDF](https://www.tandfonline.com/doi/full/10.1080/24750263.2024.2447447)
+Bałazy K, Jakubas D, Kotarba A, **Wojczulanis-Jakubas K** (**2025**) Illuminating the Arctic: Unravelling seabird responses to artificial light during polar darkness through citizen science and remote sensing. *Remote Sensing in Ecology and Conservation* 11(3): 312-326*,* [PDF](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.425)
+
+Cieślińska A\*, Bodson P\*, Gruber E, Piening K\*, Syposz M, **Wojczulanis-Jakubas** **K**, Jakubas D (**2025**) An illustrated key for identification of colour aberrations in alcids witha revision of nomenclature used. *European Journal of Zoology* 92: 238–257, [PDF](https://www.tandfonline.com/doi/full/10.1080/24750263.2024.2447447)
+
+Jakubas D, **Wojczulanis-Jakubas K**, Witkowska M, Lesiewicz A\*, Manikowska-Ślepowrońska B, Wiśniowska I, Binkowski ŁJ (**2025**) Factors influencing cage escape behaviour in a migrating passerine at a stop-over site. *Animals* 15 (13): 1945*,* [PDF](https://www.mdpi.com/2076-2615/15/13/1945)
 
 <br>
 
 # ![#575F73](https://placehold.co/15x15/575f73/575f73.png){alt="#575F73"} 2024
 
-Osiecka A\*, Bryndza P, Briefer EF, **Wojczulanis-Jakubas K** (2024). Long distance calls: Negligible information loss of little auk social vocalizations due to high frequency propagation losses. *Plos Computational Biology*, in press. [PDF](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011961) (corrected proof)
+Osiecka A\*, Bryndza P, Briefer EF, **Wojczulanis-Jakubas K** (**2024**). Long distance calls: Negligible information loss of little auk social vocalizations due to high frequency propagation losses. *Plos Computational Biology*, 20(12): e1011961. [*PDF*](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011961)
 
-Bałazy K, Jakubas D, Kotarba A, **Wojczulanis-Jakubas K** (**2024**) Illuminating the Arctic: Unravelling seabird responses to artificial light during polar darkness through citizen science and remote sensing. *Remote Sensing in Ecology and Conservation,* [PDF](https://zslpublications.onlinelibrary.wiley.com/doi/10.1002/rse2.425)
-
-Klimek B, Ryszka P, Zieliński P, Carlea F, **Wojczulanis-Jakubas K**, Wloch Salamon D (**2024**). Temperature dependent catabolic traits of cold-adapted soil yeasts Goffeauzyma gilvescens and Naganishia albidosimilis from Hornsund, Svalbard. *Polish Polar Research*, *in press*. [PDF](https://journals.pan.pl/dlibra/publication/150880/edition/133040/content)
+Klimek B, Ryszka P, Zieliński P, Carlea F, **Wojczulanis-Jakubas K**, Wloch Salamon D (**2024**). Temperature dependent catabolic traits of cold-adapted soil yeasts Goffeauzyma gilvescens and Naganishia albidosimilis from Hornsund, Svalbard. *Polish Polar Research* 45(4): 285–304. [PDF](#0){style="font-size: 11pt;"}
 
 Syposz M, Devogel M\*, Grissot A\*, Jakubas D, **Wojczulanis‐Jakubas K** (**2024**). The first evidence of alloparental feeding in a crevice-nesting seabird, the little auk. Ecology and Evolution 14 (4): e11188. [PDF](https://pubmed.ncbi.nlm.nih.gov/38654716/)
 
 Ribeiro L\*, Devogel M\*, Grissot A\*, Kidawa D, Jakubas D, Syposz M, **Wojczulanis‐Jakubas K** (**2024**). It is good to be average: Ecological correlates of breeding phenology in an Arctic seabird, Alle alle (Dovekie). *Ornithology* 141*:* ukae036. [PDF](#0){style="font-size: 13pt;"}
 
-Jakubas D, **Wojczulanis-Jakubas K**, Petersen A, Evans PGH, Boertmann D (2024). Decline in the West Greenland population of a zooplanktivorous seabird, the little auk Alle alle. Scientific Reports 14:1–17. [PDF](https://www.nature.com/articles/s41598-024-71823-3)
+Jakubas D, **Wojczulanis-Jakubas K**, Petersen A, Evans PGH, Boertmann D (2024). Decline in the West Greenland population of a zooplanktivorous seabird, the little auk Alle alle. *Scientific Reports* 14:1–17. [PDF](https://www.nature.com/articles/s41598-024-71823-3)
 
-Grissot A,\* Altmeyer L\*, Devogel M\*, Zalewska E\*, Borrel C\*, Kidawa D, Jakubas D, **Wojczulanis-Jakubas K** (**2024**). Coordination of parental performance is breeding phase-dependent in the Dovekie (*Alle alle*), a pelagic Arctic seabird. PloS one 19:e0306796. [PDF](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306796)
+Grissot A,\* Altmeyer L\*, Devogel M\*, Zalewska E\*, Borrel C\*, Kidawa D, Jakubas D, **Wojczulanis-Jakubas K** (**2024**). Coordination of parental performance is breeding phase-dependent in the Dovekie (*Alle alle*), a pelagic Arctic seabird. *PloS One* 19:e0306796. [PDF](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0306796)
 
 Devogel M\*, Le Fur R\*, Grissot A\*, Kidawa D, Araya-Salas M, **Wojczulanis-Jakubas K** (**2024**). Vocal interactions of breeding partners predict duration of incubation bout in an Artic seabird. *Journal of Ornithology*. [PDF](https://doi.org/10.1007/s10336-024-02184-x)
 
-Grunst AS, Grunst ML, Grémillet D, Chastel O, Cruz-Flores M, Gentès S, Grissot A\*, Jakubas D, Kato A, Parteneau C, **Wojczulanis-Jakubas K**, Fort J (**2024**). Environment-dependent relationships between corticosterone and energy expenditure during reproduction: Insights from seabirds in the context of climate change. *Functional Ecology*:1–13. [PDF](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14630)
+Grunst AS, Grunst ML, Grémillet D, Chastel O, Cruz-Flores M, Gentès S, Grissot A\*, Jakubas D, Kato A, Parteneau C, **Wojczulanis-Jakubas K**, Fort J (**2024**). Environment-dependent relationships between corticosterone and energy expenditure during reproduction: Insights from seabirds in the context of climate change. *Functional Ecology* 1–13. [PDF](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.14630)
 
 Jakubas D, **Wojczulanis-Jakubas K**, Iliszko LM (**2024**). Sex differences in foraging ecology of a zooplanktivorous little auk Alle alle during the pre-laying period: insights from remote sensing and animal-tracking. *Frontiers in Zoology* 21:1–20. [PDF](https://frontiersinzoology.biomedcentral.com/articles/10.1186/s12983-024-00534-2)
 
