@@ -12,11 +12,27 @@ format:
 
 \* Asteriks denote (co)supervised students (interns, masters, phds), originated from my lab - I am so proud of you, guys!
 
-# ![#1589F0 %\>%](https://placehold.co/15x15/f03c15/f03c15.png){alt="#1589F0 %>%"} 2025
-
 ![](images/behave_ntblm.png)
 
-Elhorst, R, Syposz, M, **Wojczulanis-Jakubas, K** (**2025**) BEHAVE - facilitating behaviour coding from videos with AI-detected animals. *Ecological Informatics*, *87*, [PDF](https://www.sciencedirect.com/science/article/pii/S1574954125001153)
+
+# ![#1589F0](https://placehold.co/15x15/f03c15/f03c15.png) 2026
+
+
+Hocquet M\*, Devogel M\*, Grissot A\*, Jakubas D, Chastel O, Parenteau C, **Wojczulanis-Jakubas K** (**2026**) Endocrine drivers of incubation performance in a High Arctic seabird, the little auk (Alle alle). *Hormones and Behavior* 181: 105930 [PDF](https://www.sciencedirect.com/science/article/pii/S0018506X26000553?via%3Dihub)
+
+Grunst AS, Grunst ML, Grémillet D, Chastel O, Friry S, Giraud A, Grissot A, Jakubas D, Kato A, Parteneau C, **Wojczulanis-Jakubas K**, Fort J (**2026**) Risk-taking behavior related to mercury contamination in a high Arctic
+seabird. *Behavioural Ecology and Sociobiology* 80: 36 [PDF](https://link.springer.com/article/10.1007/s00265-026-03710-y?utm_source=researchgate.net&utm_medium=article)
+
+
+Ausems A, Jakubas M, Jensen JK, **Wojczulanis–Jakubas K** (**2026**) Variation in food availability affects the population age structure of Atlantic puffins Fratercula arctica in the Faroe Islands. *Wildlife Biology* 2026: 01546 [PDF](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/wlb3.01546)
+
+
+<br>
+
+
+# ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2025
+
+Elhorst, R, Syposz M, **Wojczulanis-Jakubas, K** (**2025**) BEHAVE - facilitating behaviour coding from videos with AI-detected animals. *Ecological Informatics*, *87*, [PDF](https://www.sciencedirect.com/science/article/pii/S1574954125001153)
 
 Bałazy K, Jakubas D, Kotarba A, **Wojczulanis-Jakubas K** (**2025**) Illuminating the Arctic: Unravelling seabird responses to artificial light during polar darkness through citizen science and remote sensing. *Remote Sensing in Ecology and Conservation* 11(3): 312-326*,* [PDF](https://zslpublications.onlinelibrary.wiley.com/doi/full/10.1002/rse2.425)
 
