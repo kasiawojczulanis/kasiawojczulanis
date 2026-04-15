@@ -11,6 +11,7 @@ css: styles.css
 \* Asteriks denote (co)supervised students (interns, masters, phds), originated from my lab - I am so proud of you, guys!
 
 ![](images/behave_ntblm.png)
+<span class="tiny">Elhorst, R, Syposz M, **Wojczulanis-Jakubas, K** (**2025**) BEHAVE - facilitating behaviour coding from videos with AI-detected animals. *Ecological Informatics*, *87*, [PDF](https://www.sciencedirect.com/science/article/pii/S1574954125001153)</span>
 
 
 # ![#1589F0](https://placehold.co/15x15/f03c15/f03c15.png) 2026
