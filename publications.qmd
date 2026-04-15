@@ -19,9 +19,8 @@ css: styles.css
 
 Hocquet M\*, Devogel M\*, Grissot A\*, Jakubas D, Chastel O, Parenteau C, **Wojczulanis-Jakubas K** (**2026**) Endocrine drivers of incubation performance in a High Arctic seabird, the little auk (Alle alle). *Hormones and Behavior* 181: 105930 [PDF](https://www.sciencedirect.com/science/article/pii/S0018506X26000553?via%3Dihub)
 
-Grunst AS, Grunst ML, Grémillet D, Chastel O, Friry S, Giraud A, Grissot A, Jakubas D, Kato A, Parteneau C, **Wojczulanis-Jakubas K**, Fort J (**2026**) Risk-taking behavior related to mercury contamination in a high Arctic
+Grunst AS, Grunst ML, Grémillet D, Chastel O, Friry S, Giraud A, Grissot A\*, Jakubas D, Kato A, Parteneau C, **Wojczulanis-Jakubas K**, Fort J (**2026**) Risk-taking behavior related to mercury contamination in a high Arctic
 seabird. *Behavioural Ecology and Sociobiology* 80: 36 [PDF](https://link.springer.com/article/10.1007/s00265-026-03710-y?utm_source=researchgate.net&utm_medium=article)
-
 
 Ausems A, Jakubas M, Jensen JK, **Wojczulanis–Jakubas K** (**2026**) Variation in food availability affects the population age structure of Atlantic puffins Fratercula arctica in the Faroe Islands. *Wildlife Biology* 2026: 01546 [PDF](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/wlb3.01546)
 
