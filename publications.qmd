@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-date: "2025-11-25"
+date: today
 css: styles.css
 ---
 
