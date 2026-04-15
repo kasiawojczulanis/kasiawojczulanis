@@ -32,14 +32,42 @@ I am behavioural ecologist, with a wide range of scientific interests and resear
 <ul>
 
 <li>
-📝 <strong>April 2026</strong> — New paper out:<br>
+🎓 <strong>April 2026</strong> — Fulbright research visit at the University of Nevada, Reno, US, developing collaborations in parental coordination and hormones
+</li>
+
+
+
+<li>
+📝 **April 2026** — New paper out:<br>
+Variation in food availability affects the population age structure of Atlantic puffins Fratercula arctica in the Faroe Islands<br>
+<a href="https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/wlb3.01546" target="_blank">PDF</a> — published in *Wildlife Biology*
+</li>
+
+<br>
+
+<li>
+📝 **April 2026** — New paper out:<br>
 Endocrine drivers of incubation performance in the little auk<br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0018506X26000553?via%3Dihub" target="_blank">PDF</a> — published in *Hormones and Behavior*
 </li>
 
+<br>
+
+<li>
+📝 **March 2026** — New paper out:<br>
+Risk-taking behavior related to mercury contamination in a high Arctic seabird <br>
+<a href="https://link.springer.com/article/10.1007/s00265-026-03710-y?utm_source=researchgate.net&utm_medium=article" target="_blank">PDF</a> — published in *Behavioural Ecology and Sociobiology*
+</li>
+
+<br>
+
 <li>📖 **December 1, 2025** — Guest editor of the special collection: <a href="https://www.nature.com/collections/cjcgadfidd/guest-editors" target="_blank">Polar Ecology</a> of Scientific Reports</li>
 
+<br>
+
 <li>🎓 **October 1, 2025** — Animal Behaviour course starts (stationary, University of Gdańskl)</li>
+
+<br>
 
 <li>🎉 **March 22, 2025** — New paper out: BEHAVE - facilitating behaviour coding from videos with AI-detected animals</li>
 
