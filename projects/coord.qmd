@@ -95,24 +95,19 @@ Wojczulanis-Jakubas K, Araya-Salas M, Jakubas D. 2018. Seabird parents provision
 
 <br>
 
-**Project team:** Katarzyna Wojczulanis-Jakubas (PI), Maureen Hocquet (PhD student), Davide Baldan, Marcelo Araya-Salas
+**Project team:** Katarzyna Wojczulanis-Jakubas (PI), Maureen Hocquet (PhD student), [Davide Baldan](https://www.davidebaldan.com/), [Marcelo Araya-Salas](https://marce10.github.io/)
 
 <br>
 
 -----
-
-<div style="text-align:center; margin-bottom:10px;">
-  <img src="../images/ncn.jpg"
-       style="width:10%; margin:0 4px; border-radius:6px;">
-  <img src="../images/fulbright.png"
-       style="width:25%; margin:0 4px; border-radius:6px;">
+<div style="text-align:center; margin:20px 0;">
+  <img src="../images/ncn_fulbright.jpg"
+       style="width:20%; border-radius:6px;">
 </div>
 
-<p style="text-align:center; margin-top:0;">
-  Project funded by National Science Center:
+
+Project funded by National Science Center:
   <a href="https://projekty.ncn.gov.pl/en/index.php?projekt_id=590682" target="_blank">
     2023/49/B/NZ8/00370
   </a>
-  and Fulbright STEM Award (KWJ)
-</p>
-
+ and Fulbright STEM Award (KWJ)

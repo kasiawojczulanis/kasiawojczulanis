@@ -3,7 +3,7 @@ title: "Katarzyna (Kasia) Wojczulanis-Jakubas"
 format:
   html:
     css: styles.css
-image: ja.jpg
+image: images/ja.jpg
 toc: false
 about: 
   template: trestles
