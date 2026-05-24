@@ -10,26 +10,21 @@ css: styles.css
 
 \* Asteriks denote (co)supervised students (interns, masters, phds), originated from my lab - I am so proud of you, guys!
 
-![](images/behave_ntblm.png)
-<span class="tiny">Elhorst, R, Syposz M, **Wojczulanis-Jakubas, K** (**2025**) BEHAVE - facilitating behaviour coding from videos with AI-detected animals. *Ecological Informatics*, *87*, [PDF](https://www.sciencedirect.com/science/article/pii/S1574954125001153)</span>
-
+![](images/behave_ntblm.png) [Elhorst, R, Syposz M, **Wojczulanis-Jakubas, K** (**2025**) BEHAVE - facilitating behaviour coding from videos with AI-detected animals. *Ecological Informatics*, *87*, [PDF](https://www.sciencedirect.com/science/article/pii/S1574954125001153)]{.tiny}
 
 # ![#1589F0](https://placehold.co/15x15/f03c15/f03c15.png) 2026
 
+Syposz M, Varpe Ø, Descamps S, Fort J, Grémillet D, Jakubas D, Kidawa D, Strøm H, Versluijs TSL,Wawrzyniak T, **Wojczulanis-Jakubas K** (**2026**) Snowmelt predicts earlier breeding across the latitudinal range of an Arctic nesting seabird, the little auk *Alle alle*. *Journal of Animal Ecology, In press*
 
-Bodson P\*, Bałazy K, Błachowiak-Samołyk K, Boehnke R, Iliszko LM, Piening K\*, Stempniewicz L, Syposz M, Trudnowska E, **Wojczulanis-Jakubas K**, Jakubas D (**2026**) The habitat niche breadth in a zooplanktivorous High Arctic seabird as an indicator of ocean-related pressures
-. *Royal Society Open Science* 13(4): 251449 [PDF](https://royalsocietypublishing.org/rsos/article/13/4/251449/481518/The-habitat-niche-breadth-in-a-zooplanktivorous)
+Bodson P\*, Bałazy K, Błachowiak-Samołyk K, Boehnke R, Iliszko LM, Piening K\*, Stempniewicz L, Syposz M, Trudnowska E, **Wojczulanis-Jakubas K**, Jakubas D (**2026**) The habitat niche breadth in a zooplanktivorous High Arctic seabird as an indicator of ocean-related pressures . *Royal Society Open Science* 13(4): 251449 [PDF](https://royalsocietypublishing.org/rsos/article/13/4/251449/481518/The-habitat-niche-breadth-in-a-zooplanktivorous)
 
 Hocquet M\*, Devogel M\*, Grissot A\*, Jakubas D, Chastel O, Parenteau C, **Wojczulanis-Jakubas K** (**2026**) Endocrine drivers of incubation performance in a High Arctic seabird, the little auk (Alle alle). *Hormones and Behavior* 181: 105930 [PDF](https://www.sciencedirect.com/science/article/pii/S0018506X26000553?via%3Dihub)
 
-Grunst AS, Grunst ML, Grémillet D, Chastel O, Friry S, Giraud A, Grissot A\*, Jakubas D, Kato A, Parteneau C, **Wojczulanis-Jakubas K**, Fort J (**2026**) Risk-taking behavior related to mercury contamination in a high Arctic
-seabird. *Behavioural Ecology and Sociobiology* 80: 36 [PDF](https://link.springer.com/article/10.1007/s00265-026-03710-y?utm_source=researchgate.net&utm_medium=article)
+Grunst AS, Grunst ML, Grémillet D, Chastel O, Friry S, Giraud A, Grissot A\*, Jakubas D, Kato A, Parteneau C, **Wojczulanis-Jakubas K**, Fort J (**2026**) Risk-taking behavior related to mercury contamination in a high Arctic seabird. *Behavioural Ecology and Sociobiology* 80: 36 [PDF](https://link.springer.com/article/10.1007/s00265-026-03710-y?utm_source=researchgate.net&utm_medium=article)
 
 Ausems A, Jakubas M, Jensen JK, **Wojczulanis–Jakubas K** (**2026**) Variation in food availability affects the population age structure of Atlantic puffins Fratercula arctica in the Faroe Islands. *Wildlife Biology* 2026: 01546 [PDF](https://nsojournals.onlinelibrary.wiley.com/doi/10.1002/wlb3.01546)
 
-
 <br>
-
 
 # ![#575F73](https://placehold.co/15x15/575f73/575f73.png) 2025
 
