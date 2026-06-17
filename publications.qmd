@@ -14,7 +14,11 @@ css: styles.css
 
 # ![#1589F0](https://placehold.co/15x15/f03c15/f03c15.png) 2026
 
-Syposz M, Varpe Ø, Descamps S, Fort J, Grémillet D, Jakubas D, Kidawa D, Strøm H, Versluijs TSL,Wawrzyniak T, **Wojczulanis-Jakubas K** (**2026**) Snowmelt predicts earlier breeding across the latitudinal range of an Arctic nesting seabird, the little auk *Alle alle*. *Journal of Animal Ecology, In press*
+**Wojczulanis-Jakubas K**, Cordier D\*, Devogel M\*, Grissot A\*, Jakubas D, Kidawa D, Syposz M (**2026**) The eye that guards the rock: does it shape the world? nest site attendance patterns in a colonially breeding pelagic seabird. *Behavioural Ecology and Sociobiology* 80: 89
+[PDF](https://link.springer.com/article/10.1007/s00265-026-03766-w)
+
+Syposz M, Varpe Ø, Descamps S, Fort J, Grémillet D, Jakubas D, Kidawa D, Strøm H, Versluijs TSL,Wawrzyniak T, **Wojczulanis-Jakubas K** (**2026**) Snowmelt predicts earlier breeding across the latitudinal range of an Arctic nesting seabird, the little auk *Alle alle*. *Journal of Animal Ecology* Early View
+[PDF](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.70287?af=R)
 
 Bodson P\*, Bałazy K, Błachowiak-Samołyk K, Boehnke R, Iliszko LM, Piening K\*, Stempniewicz L, Syposz M, Trudnowska E, **Wojczulanis-Jakubas K**, Jakubas D (**2026**) The habitat niche breadth in a zooplanktivorous High Arctic seabird as an indicator of ocean-related pressures . *Royal Society Open Science* 13(4): 251449 [PDF](https://royalsocietypublishing.org/rsos/article/13/4/251449/481518/The-habitat-niche-breadth-in-a-zooplanktivorous)
 
