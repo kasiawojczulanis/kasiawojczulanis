@@ -34,6 +34,10 @@ I am behavioural ecologist, with a wide range of scientific interests and resear
 
 <br>
 
+<li>📝 <strong>June 2026</strong> — New paper out: Linking body condition and vocal signals: how little auk, <em>Alle alle</em>, chicks communicate their needs to parents<br><a href="https://www.sciencedirect.com/science/article/abs/pii/S0003347226001764" target="_blank">PDF</a> — published in <em>Animal Behaviour</em></li>
+
+<br>
+
 <li>📝 <strong>June 2026</strong> — New paper out: The eye that guards the rock: does it shape the world? nest site attendance patterns in a colonially breeding pelagic seabird <em>Alle alle</em><br><a href="https://link.springer.com/article/10.1007/s00265-026-03766-w" target="_blank">PDF</a> — published in <em>Behavioural Ecology and Sociobiology</em></li>
 
 <br>
@@ -75,3 +79,9 @@ I am behavioural ecologist, with a wide range of scientific interests and resear
 </ul>
 :::
 ::::
+
+```{=html}
+<p style="margin-top: 2em; font-size: 0.78em; color: #888; font-style: italic; text-align: right; letter-spacing: 0.03em;">
+  🕊️ last updated: June 2026
+</p>
+```
