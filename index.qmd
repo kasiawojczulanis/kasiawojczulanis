@@ -80,12 +80,12 @@ I am behavioural ecologist, with a wide range of scientific interests and resear
 
 <li>📝 <strong>March 22, 2025</strong> — New paper out: BEHAVE – facilitating behaviour coding from videos with AI‑detected animals</li>
 
-</ul>
+</ul> 
 :::
 ::::
 
 ```{=html}
 <p style="margin-top: 2em; font-size: 0.78em; color: #888; font-style: italic; text-align: right; letter-spacing: 0.03em;">
-  🕊️ last updated: June 2026
+  🕊️ last updated:July 2026
 </p>
 ```
